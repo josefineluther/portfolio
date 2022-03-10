@@ -10,6 +10,12 @@ h2 {
     color:#00BC5E;
 }
 
+h3 {
+    font-family: 'futura-pt', sans-serif;
+    font-size: 60px;
+    color:black;
+}
+
 p {
     font-family: 'source-code-pro';
     font-size: 12px;

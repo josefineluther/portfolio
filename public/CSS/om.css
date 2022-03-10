@@ -64,18 +64,18 @@
 
 .textiruta {
     padding: 30px;
-    background-color:white;
     text-align: left;
+    background-color:white;
 }
 
 .grid3 {
     display: flex;
     flex-direction: row;
-    background-color:white;
     grid-column: 1/3;
     padding: 20px 30px;
     margin-bottom: 50px;
     width: 630px;
+    background-color:white;
 }
 
 .linjeom {
