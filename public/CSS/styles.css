@@ -87,7 +87,11 @@ body {
     align-self: stretch;
     text-align: center;
     padding: 30px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
+}
+
+.welcome {
+    margin-top: -50px;
 }
 
 .first {
@@ -110,6 +114,7 @@ body {
 .bilder {
     display: flex;
     justify-content: center;
+    padding-bottom: 50px;
 }
 
 .bild {
