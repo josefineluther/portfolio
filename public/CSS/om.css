@@ -19,6 +19,7 @@
 }
 
 .grid1 {
+    margin-top: 30px;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -53,13 +54,13 @@
     font-family: 'futura-pt', sans-serif;
     font-size: 25px;
     color:#00BC5E;
-    margin: 20px 0px 20px 0px;
+    margin: 60px 0px 20px 0px;
 }
 
 .grid2 {
     width: 350px;
     margin-left: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .textiruta {
