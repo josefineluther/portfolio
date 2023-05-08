@@ -2,6 +2,7 @@ h1 {
     font-family: 'futura-pt', sans-serif;
     font-size: 80px;
     color:#00BC5E;
+    margin-bottom: -5px;
 }
 
 h2 {
@@ -101,6 +102,11 @@ body {
     padding: 30px;
 }
 
+.kuvert {
+    width: 35%;
+    margin-bottom: 40px;
+}
+
 .bilder {
     display: flex;
     justify-content: center;
@@ -118,7 +124,7 @@ body {
 .textibild {
     position: absolute;
     pointer-events: none;
-    margin: 0;
+    margin-top: 280px;
 }
 
 .linje {
