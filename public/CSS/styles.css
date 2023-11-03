@@ -91,48 +91,6 @@ body {
     padding-bottom: 40px;
 }
 
-.welcome {
-    margin-top: -50px;
-}
-
-.first {
-    width: 50%;
-    display: inline-block;
-    padding: 50px;   
-}
-
-.second {
-    width: 50%;
-    display: inline-block;
-    padding: 30px;
-}
-
-.kuvert {
-    width: 35%;
-    margin-bottom: 40px;
-}
-
-.bilder {
-    display: flex;
-    justify-content: center;
-    padding-bottom: 50px;
-}
-
-.bild {
-    position: relative;
-    width: 30%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 20px;
-}
-
-.textibild {
-    position: absolute;
-    pointer-events: none;
-    margin-top: 280px;
-}
-
 .linje {
     height: 4px;
     background-color:#00BC5E;
