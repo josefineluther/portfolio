@@ -51,6 +51,7 @@ a:hover {
 }
 
 .JL {
+    z-index: 1000;
     width: 80px;
     position: fixed;
     left: 20px;
@@ -59,11 +60,10 @@ a:hover {
 
 body {
     margin: 0;
-    padding-bottom: 40px;
     display: flex;
     flex-direction: column;
     position: relative;
-    min-height: calc(100vh - 40px);
+    min-height: 100vh;
     background-color:#EDE9D9;
 }
 
