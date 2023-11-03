@@ -63,8 +63,9 @@ body {
     display: flex;
     flex-direction: column;
     position: relative;
-    min-height: 100vh;
+    min-height: calc(100vh - 80px);
     background-color:#EDE9D9;
+    padding-bottom: 80px;
 }
 
 .header {
